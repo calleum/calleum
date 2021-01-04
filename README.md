@@ -2,7 +2,7 @@
 
 🌱 2nd Year Software Engineering Student 
 
-💬 Java, golang, C
+💬 Java, rust, C
 
 🤔 Looking to collaborate on wiki projects, embedded projects
 
