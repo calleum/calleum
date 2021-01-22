@@ -2,8 +2,6 @@
 
 🌱 2nd Year Software Engineering Student 
 
-💬 Java, rust, C
-
 😄 Reach me at calleum.pecqueux@gmail.com OR calleum.p@protonmail.com
 <!--
 **cpecq/cpecq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
