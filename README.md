@@ -4,8 +4,6 @@
 
 💬 Java, rust, C
 
-🤔 Looking to collaborate on wiki projects, embedded projects
-
 😄 Reach me at calleum.pecqueux@gmail.com OR calleum.p@protonmail.com
 <!--
 **cpecq/cpecq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
