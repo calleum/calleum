@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌱 3rd Year Software Engineering Student 
+🌱 Software Engineering Student 
 
 😄 Reach me at calleum.pecqueux@gmail.com OR calleum.p@protonmail.com
 <!--
